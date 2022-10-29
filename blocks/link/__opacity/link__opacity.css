@@ -1,9 +1,0 @@
-
-
-.link__opacity {
-  transition: opacity 2s ease;
-}
-
-.link__opacity:hover {
-  opacity: 0.2;
-}
