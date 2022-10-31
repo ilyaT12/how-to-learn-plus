@@ -1,8 +1,8 @@
 
 
-.logo__place_header {
+.logo_place_header {
   position: absolute;
   top: 0;
-  padding-left: 64px;
+  left: 64px;
   padding-top: 30px;
 }
